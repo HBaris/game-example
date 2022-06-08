@@ -415,6 +415,7 @@ MonoBehaviour:
   orange: {fileID: 2100000, guid: 50d143761faaf2049bb30701a73e73d6, type: 2}
   red: {fileID: 2100000, guid: 813df743467f44d4f810219b4ff75404, type: 2}
   yellow: {fileID: 2100000, guid: 9674ccdb2aea546488e3ae75c3e6e51b, type: 2}
+  renkSesi: {fileID: 711519790}
 --- !u!82 &711519790
 AudioSource:
   m_ObjectHideFlags: 0
@@ -425,7 +426,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: e46bd259b07434844b2b172b9d61d7ae, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 0.48
   m_Pitch: 1
@@ -612,6 +613,7 @@ MonoBehaviour:
   orange: {fileID: 2100000, guid: 50d143761faaf2049bb30701a73e73d6, type: 2}
   red: {fileID: 2100000, guid: 813df743467f44d4f810219b4ff75404, type: 2}
   yellow: {fileID: 2100000, guid: 9674ccdb2aea546488e3ae75c3e6e51b, type: 2}
+  renkSesi: {fileID: 954001716}
 --- !u!82 &954001716
 AudioSource:
   m_ObjectHideFlags: 0
